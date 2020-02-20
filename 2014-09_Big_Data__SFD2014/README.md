@@ -149,7 +149,7 @@ Phase 2: Reduce
 
 Map- und Reduce Funktionen werden jeweils parallel ausgeführt.
 
-![](/img/MapReduce.png)
+![](MapReduce.png)
 
 ### Key-Value Datenbanken
 
@@ -177,7 +177,7 @@ Beispieltext:
 >
 > [Joachim Ringelnatz]
 
-![](/img/MapReduce_Beispiel.png)
+![](MapReduce_Beispiel.png)
 
 Apache Hadoop
 -------------

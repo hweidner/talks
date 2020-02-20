@@ -1,6 +1,6 @@
-Monitoring mit Check_MK
+# Monitoring mit Check_MK
 
-Vortrag bei der Troisdorfer Linux Usergroup am 3. Januar 2019.
+_Vortrag bei der Troisdorfer Linux Usergroup am 3. Januar 2019._
 
 Check_MK ist ein Monitoring-System für IT-Netzwerke. Es wurde ursprünglich als Erweiterung für Nagios entwickelt, um dessen wichtigsten beiden Schwächen zu beseitigen: die geringe Performance und das mühsame Eintragen der zu überwachenden Informationen jedes Hosts in die Konfiguration. Mittlerweile ist Check_MK ein eigenständiges Monitoring-System, das jedoch im Kern immer noch auf Nagios aufbaut. Die Core Edition von Check_MK ist freie Software unter der GNU GPL Version 2.
 
