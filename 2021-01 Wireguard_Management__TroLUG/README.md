@@ -1,4 +1,4 @@
-# Virtual Private Networks mit Wireguard
+# Management Tools für Wireguard VPNs
 
 _Vortrag in der Troisdorfer Linux User Group am 7. Januar 2021._
 
