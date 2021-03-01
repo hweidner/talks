@@ -1,4 +1,4 @@
-# Management Tools für Wireguard VPNs
+# VPNs mit Wireguard
 
 _Vortrag beim Freien Software Abend Köln/Düsseldorf am 24. Februar 2021._
 
