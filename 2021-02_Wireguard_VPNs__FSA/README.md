@@ -34,7 +34,7 @@ iface wg0 inet static
   post-down ip link del wg0
 ```
 
-**Artikel: [Wie viele Codezeilen hat Wireguard](https://blog.hweidner.de/post/2021/wireguard-lines-of-code/)**
+**Artikel: [Wie viele Codezeilen hat Wireguard?](https://blog.hweidner.de/post/2021/wireguard-lines-of-code/)**
 
 Als Argument für Wireguard wird häufig der kleine Codeumfang und die damit
 verbundene geringere Anfälligkeit für Softwarefehler gegenüber älteren
