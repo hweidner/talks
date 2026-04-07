@@ -1,4 +1,4 @@
-# VPNs mit Wireguard
+# OpenCloud
 
 _Kurzvortrag im Linux-Workshop Köln am 7. April 2026_
 
